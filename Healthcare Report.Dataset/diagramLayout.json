@@ -1,0 +1,307 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 2603,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "patients",
+          "nodeLineageTag": "1f196b0f-7c4d-484d-bbb1-393bdc01d59d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 20
+        },
+        {
+          "location": {
+            "x": 324,
+            "y": 0
+          },
+          "nodeIndex": "encounters",
+          "nodeLineageTag": "31d9dd2f-fbf4-421c-ab7c-50081a54fb36",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 22
+        },
+        {
+          "location": {
+            "x": 1116.3333333333335,
+            "y": 323.33333333333331
+          },
+          "nodeIndex": "medications",
+          "nodeLineageTag": "2dbe5124-e426-4170-9cd5-a9aa6af8f37f",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 698.66666666666629,
+            "y": 56.999999999999993
+          },
+          "nodeIndex": "observations",
+          "nodeLineageTag": "6f30d9d6-ec75-423d-b71f-aa2bb36cb0c2",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 3976,
+            "y": 38
+          },
+          "nodeIndex": "immunizations",
+          "nodeLineageTag": "c6df51c6-3887-4663-ba7d-c6414b902336",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 1431.6666666666667,
+            "y": 373.66666666666663
+          },
+          "nodeIndex": "procedures",
+          "nodeLineageTag": "745dd78c-b40d-4caf-97cc-4bc86f882ad4",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 915.66666666666674,
+            "y": 16.333333333333258
+          },
+          "nodeIndex": "conditions",
+          "nodeLineageTag": "f113c672-4186-4c88-a6ee-bbc78323407e",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 21
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 593.33333333333337
+          },
+          "nodeIndex": "allergies",
+          "nodeLineageTag": "87f07774-5da2-4a19-8630-5ccf9bbd0482",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 266,
+            "y": 647.66666666666663
+          },
+          "nodeIndex": "careplans",
+          "nodeLineageTag": "fcf68611-76bf-4523-bdb4-028730d0d2ec",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 399.66666666666663,
+            "y": 952
+          },
+          "nodeIndex": "claims",
+          "nodeLineageTag": "0de1afa7-36c2-439b-9579-19853dcb69a0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 813,
+            "y": 1069
+          },
+          "nodeIndex": "claims_transactions",
+          "nodeLineageTag": "0be7ec7d-0f21-4ffb-a737-0dc61a308842",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 17
+        },
+        {
+          "location": {
+            "x": 830.66666666666663,
+            "y": 341.66666666666674
+          },
+          "nodeIndex": "devices",
+          "nodeLineageTag": "82c30c27-0e05-41ce-9345-f71ba81f22cd",
+          "size": {
+            "height": 233,
+            "width": 234
+          },
+          "zIndex": 18
+        },
+        {
+          "location": {
+            "x": 611.6666666666664,
+            "y": 613.33333333333337
+          },
+          "nodeIndex": "organizations",
+          "nodeLineageTag": "2eb7e3d2-132c-4103-b130-ca4033721ef1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 1727.3333333333333,
+            "y": 385.66666666666674
+          },
+          "nodeIndex": "payer_transitions",
+          "nodeLineageTag": "ee95caaf-e962-42fd-a0cf-a481efa94a1f",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 822.99999999999989,
+            "y": 793.33333333333337
+          },
+          "nodeIndex": "payers",
+          "nodeLineageTag": "560ccad8-14f6-4890-9a39-58bd1c0a4ed2",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 2272,
+            "y": 0
+          },
+          "nodeIndex": "providers",
+          "nodeLineageTag": "9546fd81-2b62-4655-9e37-5b4449808ea5",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 15
+        },
+        {
+          "location": {
+            "x": 2556,
+            "y": 38
+          },
+          "nodeIndex": "supplies",
+          "nodeLineageTag": "bd1a7bbb-7938-424b-a54e-3edc72d65f62",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 16
+        },
+        {
+          "location": {
+            "x": 1146.6666666666667,
+            "y": 751.83333333333337
+          },
+          "nodeIndex": "allencounters",
+          "nodeLineageTag": "4d06cad2-4de9-4ee6-be7a-f44e705e014a",
+          "size": {
+            "height": 145,
+            "width": 234
+          },
+          "zIndex": 19
+        },
+        {
+          "location": {
+            "x": 1711.9687499999998,
+            "y": 813.33333333333337
+          },
+          "nodeIndex": "f360encounters",
+          "nodeLineageTag": "64d0444a-9c1e-415d-9d47-82284eb1358c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 4260,
+            "y": 633.5
+          },
+          "nodeIndex": "calendar",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 4544,
+            "y": 681.5
+          },
+          "nodeIndex": "My Measures",
+          "nodeLineageTag": "247fef00-55c8-4ee0-ac60-9ff93aced4d2",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 2434.6666666666665,
+            "y": 416.16666666666669
+          },
+          "nodeIndex": "allergies_D2",
+          "nodeLineageTag": "0e144bae-9463-40b6-82d0-9c325463b8b3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 60,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
